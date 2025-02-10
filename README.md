@@ -3,7 +3,7 @@
         <td>
            <img
             src="https://i.pinimg.com/736x/8c/cc/46/8ccc46c4077dc2c891b53547e5370bff.jpg"
-            style="width: 330px;"
+            style="width: 280px; height: 300px"
           />
         </td>
         <td style="width: 50%; vertical-align: top;">
@@ -21,13 +21,7 @@
       libraries: ["React", "Express", "Tailwind"],
 
       frameworks: ["Next.js", "Vite"]
-    };
-
-  
-
-};
-
-      
+    };    
 </tr>
 </table>
 

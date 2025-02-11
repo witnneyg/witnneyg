@@ -1,35 +1,53 @@
-<table>
-    <tr>
-        <td>
-           <img
-            src="https://i.pinimg.com/736x/8c/cc/46/8ccc46c4077dc2c891b53547e5370bff.jpg"
-            style="width: 270px; height: 290px"
-          />
-        </td>
-        <td style="width: 50%; vertical-align: top;">
-        <p style="font-family: monospace; font-size: 10px;">
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-          Hello I'm Witnney, a FullStack Software Developer         
-      
-  </p>
+###
 
-     const mySkills = {
-      languages: ["React", "HTML", "CSS", "JavaScript"],
-
-      databases: ["MySQL", "Postgres", "Firebase", "MongoDB"],
-
-      libraries: ["React", "Express", "Tailwind"],
-
-      frameworks: ["Next.js", "Vite"]
-    };    
-</tr>
-</table>
-
-<div style="text-align: center;">
-  <img
-    height="180em"
-    style="margin-top: 20px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=witnneyg&layout=compact&langs_count=16&theme=midnight-purple"
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/736x/8c/cc/46/8ccc46c4077dc2c891b53547e5370bff.jpg" />
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      <img width="12" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+      <img width="12" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+      <img width="12" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+      <img width="12" />
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
